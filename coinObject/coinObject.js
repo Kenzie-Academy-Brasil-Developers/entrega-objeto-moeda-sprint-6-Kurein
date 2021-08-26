@@ -57,3 +57,6 @@ function display20Images() {
 
     return results
 }
+
+display20Flips()
+display20Images()
